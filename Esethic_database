@@ -1,0 +1,36 @@
+{
+  "gioielli": [
+    {
+      "nome_prodotto": "Collana in ametista",
+      "descrizione_prodotto": "Collana in ametista naturale con perle di fiume.",
+      "colore_prodotto": "Viola",
+      "tipologia_prodotto": "Collana",
+      "lavorazione_prodotto": "Fatta a mano",
+      "edizione": "Limitata"
+    },
+    {
+      "nome_prodotto": "Orecchini in argento",
+      "descrizione_prodotto": "Orecchini in argento 925 con cristalli di zircone cubico.",
+      "colore_prodotto": "Argento",
+      "tipologia_prodotto": "Orecchini",
+      "lavorazione_prodotto": "Fatta a mano",
+      "edizione": "Unica"
+    },
+    {
+      "nome_prodotto": "Braccialetto in cuoio",
+      "descrizione_prodotto": "Braccialetto in cuoio intrecciato con chiusura a bottone.",
+      "colore_prodotto": "Marrone",
+      "tipologia_prodotto": "Braccialetto",
+      "lavorazione_prodotto": "Fatta a mano",
+      "edizione": "Limitata"
+    },
+    {
+      "nome_prodotto": "Anello in oro",
+      "descrizione_prodotto": "Anello in oro 18 carati con diamante taglio brillante.",
+      "colore_prodotto": "Oro",
+      "tipologia_prodotto": "Anello",
+      "lavorazione_prodotto": "Fatta a mano",
+      "edizione": "Unica"
+    }
+  ]
+}
