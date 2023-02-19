@@ -1,5 +1,6 @@
 [
     {
+       "id":1,
        "name":"SCUDO DI SEQUOIA",
        "edition":"ED.4/7",
        "material":"Oro Rosa",
@@ -11,6 +12,7 @@
        "typology":"anelli"
     },
     {
+       "id":2,
        "name":"ECLISSI SCUDO DI SEQUOIA",
        "material":"Oro Rosa",
        "fairtrade":"Fairtrade 18kt",
@@ -20,6 +22,7 @@
        "typology":"anelli"
     },
     {
+       "id":3,
        "name":"VENTO NEL CANYON",
        "edition":"ED.E/A1",
        "material":"Oro Rosa",
@@ -31,6 +34,7 @@
        "typology":"anelli"
     },
     {
+       "id":4,
        "name":"ÀNCORA / ANCORA",
        "edition":"ED.1/7",
        "material":"Oro Giallo",
@@ -42,6 +46,7 @@
        "typology":"anelli"
     },
     {
+       "id":5,
        "name":"ÀNCORA / ANCORA",
        "material":"Oro Rosa",
        "fairtrade":"Fairtrade 18kt",
@@ -51,6 +56,7 @@
        "typology":"anelli"
     },
     {
+       "id":6,
        "name":"ÀNCORA / ANCORA",
        "material":"Oro Bianco",
        "fairtrade":"Fairtrade 18kt",
@@ -60,6 +66,7 @@
        "typology":"anelli"
     },
     {
+       "id":7,
        "name":"LUCE INTERIORE",
        "material":"Oro Rosa",
        "fairtrade":"18kt",
@@ -70,6 +77,7 @@
        "typology":"bracciali"
     },
     {
+       "id":8,
        "name":"LUCE INTERIORE",
        "material":"Oro Bianco",
        "fairtrade":"18kt",
@@ -80,6 +88,7 @@
        "typology":"bracciali"
     },
     {
+       "id":9,
        "name":"SOLE TRIBALE",
        "edition":"ED.1/7",
        "material":"Oro Giallo",
@@ -91,6 +100,7 @@
        "typology":"bracciali"
     },
     {
+       "id":10,
        "name":"SOLE TRIBALE",
        "edition":"BRR0002-2/7 ED.2/7",
        "material":"Oro Rosa",
@@ -102,6 +112,7 @@
        "typology":"bracciali"
     },
     {
+       "id":11,
        "name":"MITAKUYE OYASIN",
        "material":"Oro Rosa, Bianco e Giallo",
        "fairtrade":"18kt",
@@ -112,6 +123,7 @@
        "typology":"bracciali"
     },
     {
+       "id":12,
        "typology":"bracciali",
        "name":"ECLISSI MITAKUYE OYASIN",
        "edition":"Edizione: ED.2/7",
@@ -123,6 +135,7 @@
        "price_incl_vat":"7900"
     },
     {
+       "id":13,
        "typology":"bracciali",
        "name":"BRACI",
        "edition":"ED.2/7",
@@ -134,6 +147,7 @@
        "price_incl_vat":"13420"
     },
     {
+       "id":14,
        "typology":"bracciali",
        "name":"SIMBIOSI",
        "edition":"ED.1/7",
@@ -144,6 +158,7 @@
        "price_incl_vat":"17100"
     },
     {
+       "id":15,
        "name":"ATTRAVERSO IL TUONO",
        "edition":"ED.1/7",
        "material":"Oro Rosa",
@@ -155,6 +170,7 @@
        "typology":"collane"
     },
     {
+       "id":16,
        "name":"BRACI",
        "material":"Oro Rosa",
        "fairtrade":"18kt",
@@ -164,6 +180,7 @@
        "typology":"collane"
     },
     {
+       "id":17,
        "name":"MITAKUYE OYASIN",
        "material":"Oro Rosa, Bianco, Giallo",
        "fairtrade":"18kt",
@@ -172,6 +189,7 @@
        "typology":"collane"
     },
     {
+       "id":18,
        "name":"MITAKUYE OYASIN",
        "edition":"ED.2/7",
        "material":"Oro Rosa",
@@ -183,6 +201,7 @@
        "typology":"collane"
     },
     {
+       "id":19,
        "name":"CUORE DI MORINGA",
        "edition":"ED.1/7",
        "material":"Oro Rosa",
@@ -194,6 +213,7 @@
        "typology":"collane"
     },
     {
+       "id":20,
        "name":"ECLISSI CUORE DI MORINGA",
        "edition":"ED.1/7",
        "material":"Oro Rosa",
@@ -205,6 +225,7 @@
        "typology":"collane"
     },
     {
+       "id":21,
        "name":"ANDROMEDA",
        "material":"Oro Bianco",
        "fairtrade":"18kt",
@@ -214,6 +235,7 @@
        "typology":"collane"
     },
     {
+       "id":22,
        "name":"ECLISSI ANDROMEDA",
        "edition":"ED.1/7",
        "material":"Oro Rosa",
@@ -225,6 +247,7 @@
        "typology":"collane"
     },
     {
+       "id":23,
        "name":"RITUALE DI RUGIADA",
        "material":"Oro Rosa e Bianco",
        "fairtrade":"18kt",
@@ -234,6 +257,7 @@
        "typology":"collane"
     },
     {
+       "id":24,
        "name":"VIA DI PACE",
        "material":"Oro Bianco",
        "fairtrade":"18kt",
@@ -243,6 +267,7 @@
        "typology":"collane"
     },
     {
+       "id":25,
        "typology":"orecchini",
        "name":"SOLE TRIBALE",
        "code":"ORG0001-/7",
@@ -253,6 +278,7 @@
        "price_incl_vat":"8500"
     },
     {
+       "id":26,
        "typology":"orecchini",
        "name":"ECLISSI SOLE TRIBALE",
        "code":"ED.1/7",
@@ -264,6 +290,7 @@
        "price_incl_vat":"8500"
     },
     {
+       "id":27,
        "typology":"orecchini",
        "name":"TERRA CHE CAMMINA",
        "code":"ORB0002-/7",
@@ -274,6 +301,7 @@
        "price_incl_vat":"4900"
     },
     {
+       "id":28,
        "typology":"orecchini",
        "name":"TERRA CHE CAMMINA",
        "code":"ORG0002-/7",
@@ -283,6 +311,7 @@
        "price_incl_vat":"4900"
     },
     {
+       "id":29,
        "typology":"orecchini",
        "name":"ECLISSI TERRA CHE CAMMINA",
        "code":"ED.1/7",
@@ -293,6 +322,7 @@
        "price_incl_vat":"4900"
     },
     {
+       "id":30,
        "typology":"orecchini",
        "name":"LEGAMI DI LUCE",
        "code":"ORR0004-/7",
@@ -303,6 +333,7 @@
        "price_incl_vat":"5856"
     },
     {
+       "id":31,
        "name":"LEGAMI DI LUCE ORR0004-/7",
        "typology":"orecchini",
        "material":"Oro Rosa",
@@ -312,6 +343,7 @@
        "price_incl_vat":"5856"
     },
     {
+       "id":32,
        "name":"LEGAMI DI LUCE ED.1/7",
        "typology":"orecchini",
        "material":"Oro Bianco",
@@ -322,6 +354,7 @@
        "price_incl_vat":"5856"
     },
     {
+       "id":33,
        "name":"BRACI ED.2/7",
        "typology":"orecchini",
        "material":"Oro Rosa",
@@ -331,6 +364,7 @@
        "price_incl_vat":"8500"
     },
     {
+       "id":34,
        "name":"INFRANTI DISTANTI",
        "typology":"gemelli",
        "material":"Oro Giallo",
@@ -340,6 +374,7 @@
        "price_incl_vat":"4880"
     },
     {
+       "id":35,
        "name":"INFRANTI DISTANTI",
        "typology":"gemelli",
        "material":"Oro Bianco",
@@ -350,6 +385,7 @@
        "price_incl_vat":"5490"
     },
     {
+       "id":36,
        "name":"INFRANTI DISTANTI",
        "typology":"gemelli",
        "edizione":"ED.5/7",
@@ -361,6 +397,7 @@
        "price_incl_vat":"5490"
     },
     {
+       "id":37,
        "name":"ECLISSI INFRANTI DISTANTI",
        "typology":"gemelli",
        "edizione":"ED.1/7",
@@ -371,4 +408,4 @@
        "price_excl_vat":"4000",
        "price_incl_vat":"4880"
     }
-]
+ ]
